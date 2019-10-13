@@ -15,4 +15,4 @@ cookies and when user submits the update user form the server validates the sess
 
 READ MORE >>
 Blog Post :
-https://double-submit-cookie-pattern-csrf.blogspot.com/2019/10/submit-cookie-pattern.html
+https://double-submit-cookie-pattern.blogspot.com/2019/10/double-submit-cookie-pattern.html
