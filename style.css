@@ -1,0 +1,11 @@
+body,html {
+    background-image: url('https://warnerwave.xyz/image/154020-full_hd-wallpaper-4k-dark-blue-lines-grid-lines-backgrounds-pattern.jpg ');
+    height: 100%;
+}
+
+#profile-img {
+    height:180px;
+}
+.h-80 {
+    height: 80% !important;
+}
